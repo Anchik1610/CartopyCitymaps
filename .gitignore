@@ -1,0 +1,17 @@
+# Токен и конфиг с секретами
+config.py
+
+# База данных 
+database.db
+
+# Картинки, которые бот создаёт
+*.png
+map_*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
